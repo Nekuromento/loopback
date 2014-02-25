@@ -28,9 +28,6 @@
     "uid2": "0.0.3",
     "async": "~0.2.10"
   },
-  "peerDependencies": {
-    "loopback-datasource-juggler": "git://github.com/Nekuromento/loopback-datasource-juggler.git"
-  },
   "devDependencies": {
     "loopback-datasource-juggler": "git://github.com/Nekuromento/loopback-datasource-juggler.git",
     "mocha": "~1.17.1",
